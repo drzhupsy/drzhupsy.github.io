@@ -1,0 +1,64 @@
+txTitle14=The Case of the Telltale Frog Hearts
+&txSubtitle14=A Neuroscience Mystery
+&tx14a=The heart of the frog, like the human heart, is controlled by nerves.
+&tx14b=A branch of the vagus nerve carries electrical signals that cause the heart to slow down.
+&tx14c=How does the vagus nerve communicate with the heart?
+&tx14c1=• Does the electrical signal pass directly into the heart muscle?
+&tx14c2=• Does the electrical signal cause the nerve to release chemicals that slow the heart?
+&tx14d=The answer to this neuroscience mystery is a key to understanding how the nervous system communicates with the body.
+&tx14e=You can solve this mystery by doing three simple tests.
+&tx18button1=Test 1
+&tx18button2=Test 2
+&tx18button3=Test 3
+&tx19a=A beating frog heart without a vagus nerve will be placed into a salt solution. 
+Let's see if the rate of the heart changes while it is immersed in this solution.
+&tx19a1=Heart B
+&tx19a2=Heart A
+&tx19b=The drum recorder lets us monitor heart rate over time. 
+Click the beaker to fill it with salt solution, and then watch the red pen tracing to decide whether the heart rate changes.
+&tx19bask=How did the salt solution affect the heart rate?
+&tx19choice1=The heart beats faster.
+&tx19choice2=The heart rate is unchanged.
+&tx19choice3=The heart beats slower.
+&tx19c=A drum recorder lets us monitor heart rate over time.
+&tx19d=The drum recorder indicates a steady heart rate.
+&tx25a=Watch closely. The pen tracing on the drum shows that the heart is beating at a steady rate.
+&tx25b=If the heart had slowed down, the pulses on the tracing would have appeared farther apart as time passed. 
+&tx25b2=If the heart had sped up, the pulses on the tracing would have appeared closer together as time passed.
+&tx25c=The pulses stayed evenly spaced, so the salt solution didn't have any noticeable effect on the heart rate.
+&tx25a1=I agree. The pulses stayed evenly spaced, so your conclusion that the solution has no effect on the heart rate is probably correct.
+&tx28a=If the vagus nerve releases some heart-slowing chemical, some of it may leak into the salt solution.
+We'll use Heart A, which has a vagus nerve attached, to test this hypothesis.
+&tx28b=Heart B has no vagus nerve. 
+If solution taken from around the nerve of Heart A can slow down Heart B, we'll have strong evidence that the nerve produces a heart-slowing chemical.
+&tx28b1=Drag the pipet into the solution over Heart A to collect a sample of solution.
+&tx28b2=Good. Now empty the pipet over Heart B by dragging it into the solution in the other beaker.
+&tx28b3=Watch the red drum tracings carefully for changes in the rate of Heart B.
+&tx28c=Does solution taken from Heart A change the rate of Heart B?
+&tx28d=Perhaps the nerve only releases the heart-slowing chemical when it is stimulated. 
+&tx29a=Heart with vagus nerve still attached
+&tx29b=Heart with vagus nerve removed
+&tx29c=Electrical stimulation slows down this heart.
+&tx29d=Contact with solution from Heart A slows down Heart B.
+&tx32a=Now test the solution after an electrical signal has passed through the vagus nerve of Heart A.
+Click on the electrodes to stimulate the nerve.
+&tx32a1=Watch the blue drum tracing carefully to see how stimulating the nerve affects the rate of Heart A.
+&tx32b=Does the solution around the stimulated nerve contain a substance that can slow the heart? 
+&tx37a=Yes. Heart B slowed down after exposure to solution collected from Heart A.
+&tx37b=Some heart-slowing substance must have been present in the solution you transferred by pipet.
+&tx38a=I disagree. The red tracing on the drum shows that Heart B slowed down after being exposed to solution from Heart A.
+&tx59=Conclusions
+&tx59a=What can we infer about communication in the nervous system?
+&tx59b=Signals are electrical only.
+&tx59c=Signals are chemical only.
+&tx59d=Signals are both electrical and chemical.
+&tx60b=In Test 3, Heart B slowed without ever receiving an electrical signal. So communication in the nervous system can't be purely electrical.
+&tx60d=Yes! Electricity triggers the release of chemical signals in the nervous system.
+&tx60c=The nerve had to be stimulated electrically before the heart-slowing chemical was released.
+Chemical signals must be triggered electrically.
+&tx63a=Congratulations.
+You've reconstructed the solution of one of the greatest scientific mysteries of the 20th century!
+&tx63d=Otto Loewi, Graz Austria
+&tx63b=In 1921, Otto Loewi demonstrated that electrical signals cause nerve cells to release chemicals called neurotransmitters in tests very similar to the ones you just performed. 
+For this work, he won the Nobel Prize in 1936. 
+&loaded=yes
