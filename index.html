@@ -5,9 +5,23 @@
     </head>
     <body>
         <div id='ruffle' align="center">
-<script type="text/javascript" src="/drug/swf2js.js"></script>
-<script type="text/javascript">
-    swf2js.load('/drug/recon-app-1-5/ep1/game.swf');
+        <script src='/drug/ruffle/ruffle.js'></script>
+        <script>
+var swfobject = {};
+
+swfobject.embedSWF = function(url, cont, width, height){
+    var ruffle = window.RufflePlayer.newest(),
+        player = Object.assign(document.getElementById(cont).appendChild(ruffle.createPlayer()), {
+            width: width,
+            height: height,
+            style: 'width: ' + width + 'px; height: ' + height + 'px',
+        });
+    
+    player.load({ url: url });
+}
+
+swfobject.embedSWF('/drug/recon-app-1-5/ep1/game.swf', 'ruffle', 500, 500);
+        </script>
         </div>
     </body>
 </html>
